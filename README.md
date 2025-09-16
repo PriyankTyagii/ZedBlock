@@ -107,7 +107,3 @@ Validation: ✅ Block is valid
 - **Interface:** UART (Tera Term / PuTTY, 115200 baud rate)  
 
 ---
-## 👨‍💻 Author
-Developed by : Priyank Tyagi 
-📧 Contact: priyanktyagi404@gmail.com
-
