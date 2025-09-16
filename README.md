@@ -94,8 +94,6 @@ Validation: ✅ Block is valid
 ---
 ## Output
 
-<img width="687" height="582" alt="Screenshot 2025-07-07 175833" src="https://github.com/user-attachments/assets/a681effa-e12b-4551-96f2-ab9608a0b4a0" />
-
 <img width="662" height="844" alt="Screenshot 2025-07-07 175853" src="https://github.com/user-attachments/assets/258b12e3-eaf0-4ab2-898c-507614a832f1" />
 
 ---
