@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="blockchain_sd" location="C:/Users/priya/OneDrive/Desktop/AES_ENCRYPTION/SD/blockchain_sd" platform="C:/Users/priya/OneDrive/Desktop/AES_ENCRYPTION/SD/zed_platform/export/zed_platform/zed_platform.xpfm" platformUID="xilinx:zed::0.0(custom)" systemProject="blockchain_sd_system" sysConfig="zed_platform" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="8ae1b1132adb9833a3596e7fd8e8a665">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.896056938">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1222078654" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

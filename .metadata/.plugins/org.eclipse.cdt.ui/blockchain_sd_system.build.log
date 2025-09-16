@@ -1,0 +1,10 @@
+17:55:03 **** Incremental Build of configuration Debug for project blockchain_sd_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 52092 C:/Users/priya/OneDrive/Desktop/AES_ENCRYPTION/SD/zed_platform/export/zed_platform/zed_platform.xpfm standalone_domain C:/Users/priya/OneDrive/Desktop/AES_ENCRYPTION/SD/blockchain_sd_system/Debug/system.bif
+sdcard_gen --xpfm C:/Users/priya/OneDrive/Desktop/AES_ENCRYPTION/SD/zed_platform/export/zed_platform/zed_platform.xpfm --sys_config zed_platform --bif C:/Users/priya/OneDrive/Desktop/AES_ENCRYPTION/SD/blockchain_sd_system/Debug/system.bif --bitstream C:/Users/priya/OneDrive/Desktop/AES_ENCRYPTION/SD/blockchain_sd/_ide/bitstream/design_2_wrapper.bit --elf C:/Users/priya/OneDrive/Desktop/AES_ENCRYPTION/SD/blockchain_sd/Debug/blockchain_sd.elf,ps7_cortexa9_0
+creating BOOT.BIN using C:/Users/priya/OneDrive/Desktop/AES_ENCRYPTION/SD/blockchain_sd/_ide/bitstream/design_2_wrapper.bit
+Running C:/Xilinx/Vitis/2020.2/bin/bootgen  -image C:/Users/priya/OneDrive/Desktop/AES_ENCRYPTION/SD/blockchain_sd_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+
+17:55:10 Build Finished (took 6s.873ms)
+
